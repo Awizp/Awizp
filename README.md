@@ -32,8 +32,8 @@ Hi there! I'm a self-taught MERN Stack Developer with a passion for turning idea
 
 #
 
-### 📊 Stats
+<!-- ### 📊 Stats
 
 ![Awizp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Awizp&show_icons=true&theme=gruvbox)
 
-#
+# -->
