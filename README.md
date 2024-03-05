@@ -10,7 +10,7 @@ Hi there! I'm a self-taught MERN Stack Developer with a passion for turning idea
       <a href="https://portfolio-awizp.netlify.app/">
          <img alt="portfolio" title="Visit my Portfolio" src="./assets/portfolio.png" width="50px"/></a> 
       <a href="https://www.sololearn.com/en/profile/14130040">
-         <img alt="followers" title="Follow me on Sololearn" src="./assets/sololearn.png" width="50px" /></a>
+         <img alt="followers" title="Follow me on Sololearn" src="./assets/sololearn.png" width="40px" /></a>
    </p>
 
 ---
