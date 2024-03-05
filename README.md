@@ -4,15 +4,7 @@
 
 Hi there! I'm a self-taught MERN Stack Developer with a passion for turning ideas into digital reality. I specialize in web development, utilizing HTML, CSS, JavaScript, React, EJS, Express, MongoDB, and Node.js. Let's connect and build something amazing together! 💻
 
-<style>
-   .align-proper{
-      display: flex;
-      align-items: center;
-      justify-content: center;
-   }
-</style>
-
-   <div class="align-proper">
+   <div display="flex" align-items="center" justify-content="center">
       <p align="left">
          <a href="https://www.linkedin.com/in/awizp/">
             <img alt="LinkedIn" title="Visit my LinkedIn page" src="./assets/linkedin.png" width="50px" /></a> 
