@@ -1,6 +1,6 @@
 # Vishnuprakash R
 
-**`Self-taught MERN Stack Developer`**
+**`Full Stack Developer`**
 
 # 💫 About Me:
 I'm a Full Stack Developer focused on building seamless user experiences and efficient, scalable backends.<br><br>Outside of coding, I love exploring new creative projects and finding inspiration in the world around me.<br><br>Let’s collaborate! I’m always open to working on exciting new ideas and building something meaningful.
